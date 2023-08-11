@@ -16,7 +16,7 @@ If you're also learning web development, I encourage you to practice, experiment
 
 ## Contact Me
 
-If you have any questions about my learning process, the technologies I used, or would like to discuss web development in general, feel free to connect with me at [email@example.com](mailto:email@example.com).
+If you have any questions about my learning process, the technologies I used, or would like to discuss web development in general, feel free to connect with me at [LinkedIn](https://www.linkedin.com/in/tusharpatowary/).
 
 
 [https://la-contenta.netlify.app/]
